@@ -9,4 +9,4 @@ Here are a list of things about me:
 * I have taught myself how to use Dacvinci Resolve for video editing
     * I have created over 2000 videos as an excuse to ignore the pandemic
 * I run a featured collection on the Internet Archive
-    * [Game and Video Game Confrences]('https://archive.org/details/gameconferences')
+    * [Game and Video Game Confrences](https://archive.org/details/gameconferences)
