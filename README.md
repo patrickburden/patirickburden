@@ -16,3 +16,8 @@ Part 2: Awesome Dataset: [Getty Vocabularies](http://vocab.getty.edu/)
 The reason I mention this is that as someone who is not familiar with SPARQL the ability to see some queries it is nice to have a starting point.  The controlled vocabulary is something that I realize I need to create for my own project and finding other ones outside of LCSH is a nice comparision in finding the dos and donts in creating this.  While there is an online box to enter in some queries, it is encouraged to use an application that is fmailiar with SPARQL and point it to the dataset to get the full potential.
 
 
+Part 3: Two cool repositories
+
+* [Brainscape](https://github.com/ross-spencer/brainscape-digital-preservation) - I could have used this when studing for my DAS.  With the amount of terms that are out there is it nice to have a single place to view them and give you the defination of what they are.
+
+* [Awesome Digital Preservation](https://github.com/ruarxive/awesome-digital-preservation) - Having an open source tool list at the ready for various aspects of Digital Preservation is nice to have, espcially if it updates after the initial post.
